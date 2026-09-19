@@ -1,2 +1,5 @@
 *.prg
+!prgs/**/*.prg
 vice*.png
+.DS_Store
+Thumbs.db
