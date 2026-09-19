@@ -8,3 +8,6 @@ I have deliberately designed these programs so that they can be ported with litt
 You may use these programs and modify them as you wish, provided that you give me credit. These might be silly programs but I did take the effort and the time to write them, so some acknowledgment wouldn't go astray.
 
 Enjoy. :)
+
+## Quick start for VICE users: 
+`petcat -w2 -o run.prg "auto poetry.txt"; x64sc run.prg` 
