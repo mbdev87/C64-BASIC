@@ -18,4 +18,5 @@ Run `prgs/generate_prg.py` to compile all `.txt` BASIC source files into `.prg` 
 
 ## Compatibility
 
-The generated `.prg` files work both in emulators (VICE - just drag & drop .prg onto the emulator window) and were tested on actual C64 hardware via TapecartSD — see [docs/auto_poetry.png](docs/auto_poetry.png).
+The generated `.prg` files work both in emulators (VICE - just drag & drop .prg onto the emulator window) and were tested on actual C64 hardware via TapecartSD
+<img src="docs/auto_poetry.png" alt="Auto poetry example" />
